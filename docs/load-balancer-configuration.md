@@ -38,7 +38,7 @@ curl http://localhost
 ```
 Expected output should route the request to one of the microservices running on `App-VM` or `DB-VM`.
 
-## 📸 Screenshots to Capture
+## 📸 Screenshots Captured
 - **Editing `nginx/sites-available/default`**
 - **Successful response from Load Balancer (`curl http://localhost`)**
 
