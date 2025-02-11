@@ -12,7 +12,7 @@
    - **Type:** `Linux`
    - **Version:** `Ubuntu (64-bit)`
    - **Memory (RAM):** 2GB
-   - **Disk Size:** 20GB
+   - **Disk Size:** 25GB
 3. Click **Create**.
 4. **Repeat for `DB-VM`.**
 
@@ -22,7 +22,7 @@
 3. Choose the **Ubuntu ISO file** and click **OK**.
 4. Start the VM and follow the Ubuntu installation steps.
 
-## 📸 Screenshots to Capture
+## 📸 Screenshots Captured
 - **VirtualBox New VM Settings**
 - **Ubuntu ISO Attached**
 - **Installation Screen**
