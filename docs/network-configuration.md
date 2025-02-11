@@ -111,7 +111,7 @@ Expected output:
 
 ---
 
-## 📸 **Screenshots to Capture**
+## 📸 **Screenshots Captured**
 To include proof in the documentation, capture the following screenshots:
 1. **VirtualBox Network Adapter Settings** (showing NAT and Host-Only Adapter).
 2. **Editing `/etc/netplan/50-cloud-init.yaml`** inside `App-VM` and `DB-VM`.
