@@ -8,7 +8,7 @@ sudo apt update && sudo apt install -y nodejs npm git docker.io
 
 ## 📂 Cloning the Repository
 ```bash
-git clone https://github.com/your-username/microservice-deployment.git
+git clone https://github.com/RubyMythiliM/microservice-deployment.git
 cd microservice-deployment/microservice-app
 ```
 
