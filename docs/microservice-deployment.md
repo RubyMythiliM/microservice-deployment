@@ -42,7 +42,7 @@ Expected output:
 Hello from App-VM Microservice!
 ```
 
-## 📸 Screenshots to Capture
+## 📸 Screenshots Captured
 - **Running `git clone` inside `App-VM`.**
 - **Microservice running (`node server.js`).**
 - **Testing `curl http://localhost:3000`**
