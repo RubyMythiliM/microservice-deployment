@@ -21,5 +21,5 @@ Refer to [docs/setup-guide.md](docs/setup-guide.md) for detailed instructions.
 
 ## 🔗 Repository Links
 - **Source Code:** [GitHub Repo](https://github.com/RubyMythiliM/microservice-deployment)
-- **Video Demo:** _(Add link after recording)_
+- **Video Demo:** _(Google Drive : https://drive.google.com/drive/folders/1LmXwciuRP_z_ObzIBJGukn4H5F4E1jof?usp=sharing)_
 
