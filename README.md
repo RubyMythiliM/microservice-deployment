@@ -13,18 +13,13 @@ This project demonstrates how to create and configure Virtual Machines (VMs) usi
 - Use NGINX as a load balancer.
 
 ## 📂 Folder Structure
-📂 microservice-deployment/ 
-│── 📜 README.md 
-│── 📂 docs/ (Setup guides & configurations) 
-│── 📂 microservice-app/ (Microservice source code) 
-│── 📂 deployment-scripts/ (Automation scripts) 
-│── 📂 screenshots/ (Installation proof) 
-│── 📂 diagrams/ (Network & architecture diagrams)
-
-
-## 📂 Folder Structure
-
-📁 **microservice-deployment/** │── 📄 README.md │── 📁 docs/ *(Setup guides & configurations)* │── 📁 microservice-app/ *(Microservice source code)* │── 📁 deployment-scripts/ *(Automation scripts)* │── 📁 screenshots/ *(Installation proof)* │── 📁 diagrams/ *(Network & architecture diagrams)*
+📂 microservice-deployment/  
+│── 📜 README.md  
+│── 📂 docs/ *(Setup guides & configurations)*  
+│── 📂 microservice-app/ *(Microservice source code)*  
+│── 📂 deployment-scripts/ *(Automation scripts)*  
+│── 📂 screenshots/ *(Installation proof)*  
+│── 📂 diagrams/ *(Network & architecture diagrams)*  
 
   
 ## 📌 Setup Guide
