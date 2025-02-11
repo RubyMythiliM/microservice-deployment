@@ -21,6 +21,17 @@ This project demonstrates how to create and configure Virtual Machines (VMs) usi
 │── 📂 screenshots/ (Installation proof) 
 │── 📂 diagrams/ (Network & architecture diagrams)
 
+
+## 📂 Folder Structure
+
+📁 **microservice-deployment/**  
+&nbsp;&nbsp;&nbsp;&nbsp;📄 README.md  
+&nbsp;&nbsp;&nbsp;&nbsp;📁 docs/ *(Setup guides & configurations)*  
+&nbsp;&nbsp;&nbsp;&nbsp;📁 microservice-app/ *(Microservice source code)*  
+&nbsp;&nbsp;&nbsp;&nbsp;📁 deployment-scripts/ *(Automation scripts)*  
+&nbsp;&nbsp;&nbsp;&nbsp;📁 screenshots/ *(Installation proof)*  
+&nbsp;&nbsp;&nbsp;&nbsp;📁 diagrams/ *(Network & architecture diagrams)*  
+
 ## 📌 Setup Guide
 Refer to [docs/setup-guide.md](docs/setup-guide.md) for detailed instructions.
 
